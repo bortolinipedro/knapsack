@@ -105,5 +105,3 @@ Cada arquivo JSON possui a seguinte estrutura:
 * Instâncias grandes podem causar tempos de execução elevados no algoritmo recursivo.
 
 ---
-
-"# knapsack" 
